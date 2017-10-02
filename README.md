@@ -1,5 +1,5 @@
 # Angular 4 Warmup
-### - aims to keep track of angular 4 features and related problems
+### aims to keep track of angular 4 features and related problems
 
 ## practice projects:
 
