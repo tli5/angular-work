@@ -10,3 +10,7 @@ project : carousel
 carousel project with angular  
 plunker : http://plnkr.co/edit/2Cm95qvWYmgPWxYSPaDD?p=preview  
 
+project : wordPipe  
+working with pipes by filtering words
+plunker : http://plnkr.co/edit/UEEIvU2hYuJWRBgxeAf8?p=preview  
+
